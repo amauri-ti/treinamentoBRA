@@ -1,0 +1,47 @@
+<mxfile host="app.diagrams.net" modified="2023-04-10T23:06:57.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="49_m19E8lrw4dhLJ4u5G" version="21.1.5" type="device">
+  <diagram name="Page-1" id="KHzo2rlxWWHfTJpJSDzv">
+    <mxGraphModel dx="1430" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="v1t3yCRXpP4GtscN666t-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v1t3yCRXpP4GtscN666t-1" target="v1t3yCRXpP4GtscN666t-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v1t3yCRXpP4GtscN666t-1" value="CAIO CASTRO" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="80" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v1t3yCRXpP4GtscN666t-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v1t3yCRXpP4GtscN666t-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1t3yCRXpP4GtscN666t-2" value="BD&lt;br&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v1t3yCRXpP4GtscN666t-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v1t3yCRXpP4GtscN666t-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v1t3yCRXpP4GtscN666t-3" value="OGG" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="140" y="350" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v1t3yCRXpP4GtscN666t-5" value="&lt;br&gt;&lt;br&gt;AIRFLOW" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="251.88" width="225" height="88.75" as="geometry" />
+        </mxCell>
+        <mxCell id="v1t3yCRXpP4GtscN666t-9" value="PROGRAMA&lt;br&gt;PYSPARK&lt;br&gt;INGESTÃO" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="v1t3yCRXpP4GtscN666t-10" value="PROGRAMA&lt;br&gt;PYSPARK&lt;br&gt;PROCESSAMENTO&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="385" y="185" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="v1t3yCRXpP4GtscN666t-11" value="PROGRAMA&lt;br&gt;PYSPARK&lt;br&gt;DISPONIBILZAÇÃO" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="385" y="291.25" width="115" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="v1t3yCRXpP4GtscN666t-14" value="NIFI" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="270" y="90" width="80" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

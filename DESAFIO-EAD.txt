@@ -1,0 +1,41 @@
+DESAFIO VALENDO 2 PONTOS 
+	(0.1 ponto) Q1 Imprima as 10 primeiras linhas do DataFrame df_orders?
+	(0.1 ponto) Q2 Imprima as 5 primeiras linhas do DataFrame df_session?
+	(0.1 ponto) Q3 Selecione apenas os pedidos onde o tipo da entrega foi DELIVERY?
+	(0.1 ponto) Q4 Verifique quantas linhas e colunas existem no df_pedidos
+	(0.1 ponto) Q5 Utilize o método join para unir os dois dataframes (df_pedidos, df_session). Considere as seguintes regras para a união dos dataframes:*
+					A) Utilize a variável session_id como nome da coluna que será utilizada para unir ambos os dataframes.
+					B) Deve retornar as linhas que são comuns nos dois DataFrames.
+					C) O DataFrame resultante deverá ter o nome de df_final
+	(0.1 ponto) Q6 Verifique quantas linhas e colunas existem no df_final
+	(0.1 ponto) Q7 Selecione as seguintes colunas e sobreescreva a variável df_final:
+	(0.1 ponto) Q8 Verifique se existem missing values. Caso positivo, remova todas as linhas em que existam valores faltantes. Sobreescreva a variável df_final
+	(0.1 ponto) Q9 Quantas linhas e colunas existem no conjunto de dados?
+	(0.1 ponto) Q10 Quantos clientes únicos existem?
+	(0.1 ponto) Q11 Quais são os 10 clientes que mais tiveram pedidos validos?
+	(0.1 ponto) Q12 Qual é o id do cliente mais antigo na plataforma?
+	(0.1 ponto) Q13 Quais são os três meses que contém mais clientes Inactive? Utilize a coluna segmentation_month.
+	(0.1 ponto) Q14 Quais são os 5 pratos mais preferidos do cliente do tipo Marlin?
+	(0.1 ponto) Q15 Quais os três bairros de São Paulo, onde o iFood mais vende pratos do tipo de Pizza?
+	(0.1 ponto) Q16 Qual é o período do dia em que os pedidos são enviados com mais frequencia?
+	(0.1 ponto) Q17 Qual é a média de gastos paid_amount que os usuários das plataformas Android e iOS?
+	(0.1 ponto) Q18 Quais foram os 10 pedidos que mais demoraram para serem entregues? Utilize as variáveis order_timestamp_local e last_status_date_local.
+	(0.1 ponto) Q19 Quais foram os valores minimo, máximo e médio gasto por todos os clientes durante os mêses disponíveis na base?
+					A) Utilize a variável order_timestamp_local para recuperar o mês.
+					B) Utilize a variável order_totalpara computar as estatísticas básicas para cada mês.
+					C) Utilize a funcionalidade pd.DatetimeIndex para recuperar o mês.
+					D) É obrigatório o uso do groupy.
+	(0.1 ponto) Q20 Utilizando qualquer um dos três DataFrames (df_customer_segmentation, df_orders, df_session_visits), crei os seguintes gráficos:
+					A) Histograma
+					B) Gráfico de dispersão
+					C) Gráfico de barras
+					D) Box-plot
+					OBS: Para cada um dos gráficos, faça uma análise da visualização obtida.
+					
+ENTREGANDO HOJE VALE OS 2 PONTOS
+ENTREGANDO ATÉ QUARTA VALE 1,5 (COM TODAS AS QUESTÕES RESPONDIDAS)
+PODE PEDIR AJUDA
+NÃO PODE USAR O CHATGPT
+QUEM ACABAR E AJUDAR O AMIGUINHO GANHA MAIS 0,5!
+TUDO PYSPARK (OBS: PARA EFEITOS VISUAIS, PODE USAR QUALQUER FRAMEWORK)
+
